@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on my **100Hours Project**
 
-- 🌱 I’m currently learning **APIs and building an application, Async/Await**
+- 🌱 I’m currently learning **APIs and building a full-stack application**
 
 - 💬 Ask me about **100Devs, One Piece, JS**
 
-- ⚡ Fun fact **I like to travel**
+- ⚡ Fun fact **I like to find ways to travel-hack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
