@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Natalie</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on my **100Hours Project**
+- 🔭 I’m currently working on my **Cloud Resume Project**
 
-- 🌱 I’m currently learning **APIs and building a full-stack application**
+- 🌱 I’m currently learning **AWS, Kubernetes, Docker, and Terraform**
 
 - 💬 Ask me about **100Devs, One Piece, JS**
 
