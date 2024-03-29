@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Natalie</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on my **Cloud Resume Project**
+- 🔭 I’m currently working on my **Security+ certification**
 
-- 🌱 I’m currently learning **AWS, Kubernetes, Docker, and Terraform**
+- 🌱 I’m currently learning **Kali Linux, Metasploitable 2**
 
-- 💬 Ask me about **100Devs, One Piece, JS**
+- 💬 Ask me about **100Devs, One Piece, JS, any tech**
 
 - ⚡ Fun fact **I like to find ways to travel-hack**
 
